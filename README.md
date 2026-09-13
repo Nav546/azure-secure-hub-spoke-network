@@ -1,3 +1,7 @@
+# azure-secure-hub-spoke-network
+
+![Project 1 Azure Network Architecture](architecture-diagram.png)
+
 **Overview**
 
 This project demonstrates the design and deployment of a secure, enterprise-grade multi-tier Virtual Network (VNet) in Microsoft Azure. The architecture enforces strict network segmentation and perimeter security by isolating backend database/application workloads from direct public internet exposure. Remote infrastructure management is accomplished securely using an Azure Bastion Host integrated into a dedicated subnet, providing encrypted management access without requiring public IP addresses on internal servers.
