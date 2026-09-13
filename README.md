@@ -1,6 +1,4 @@
-# azure-secure-hub-spoke-network
-
-![Project 1 Azure Network Architecture](architecture-diagram.png)
+![Azure Architecture Diagram](architecture-diagram.png)
 
 **Overview**
 
