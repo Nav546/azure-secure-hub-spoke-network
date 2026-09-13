@@ -1,4 +1,4 @@
-![Azure Architecture Diagram](architecture-diagram.png)
+![Azure Architecture Diagram](architecture-diagram.png.png)
 
 **Overview**
 
